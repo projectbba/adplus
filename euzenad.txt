@@ -1,0 +1,4 @@
+!Version:20180610
+!Title:EasyListByEuzen
+!Author:Euzen
+javbus.com##.ad-list
